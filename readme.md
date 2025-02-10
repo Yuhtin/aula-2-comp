@@ -8,7 +8,6 @@
 2. ```sh
     cd aula-2-comp
    ```
-3. Execute o projeto:
-    ```sh
+3. ```sh
     node index.js
     ```
